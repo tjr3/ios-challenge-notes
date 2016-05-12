@@ -2,7 +2,11 @@
 
 Notes is designed to help you practice using what you learned in this Unit. You will have to use UITableViewControllers, different UIKit elements, segues, outlets, actions, and persistence with NSUserDefaults.
 
-Please fork and clone this repository, then watch the screen recording provided before starting. This will show you what you need to build. Your project must display note items in a table view with, persist note items across app launches using NSUserDefaults, allow the user to "swipe to delete," allow the user to add notes to the list using a detail view, and allow the user to see existing notes using the same detail view. Best of luck.
+Please fork and clone this repository, then watch the screen recording provided before starting. This will show you what you need to build. Your project must display note items in a table view with, persist note items across app launches using NSUserDefaults, allow the user to add notes to the list using a detail view, and allow the user to see existing notes using the same detail view. Best of luck.
+
+### Black Diamonds
+  * Enable swipe to delete functionality on entries in the List View
+  * Implement the ability to search through notes using a UISearchBar and Swift's built-in filter function
 
 Students who complete this project independently are able to:
   * Identify and use documentation to implement UIKit elements
